@@ -1,3 +1,9 @@
+## What's All This?
+
+At some point (unless someone else beats me to it) this will be an ATProto Feed Generator for Seattle-oriented posts.
+
+The funding link on the right is correct -- most of the work here was from the person who wrote the original code. I just hacked on it a bit.
+
 ## ATProto Feed Generator powered by [The AT Protocol SDK for Python](https://github.com/MarshalX/atproto)
 
 > Feed Generators are services that provide custom algorithms to users through the AT Protocol.
